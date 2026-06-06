@@ -1,0 +1,39 @@
+*{
+	box-sizing:border-box;
+}
+.container {
+	display:flex;
+	gap:20px;
+	justify-content:center;
+	margin-top:20px;
+	
+}
+
+h1{
+	background-color:#1E3A8A;
+	color:white;
+}
+
+.item1,.item2{
+	border:2px solid black;
+	padding:15px;
+	border-radius:8px;
+	text-align:center;
+	width:500px;
+	
+}
+
+
+}
+button{
+	background-color:#0D9488;
+	color:#F9FAFB;
+	margin-top:10px;
+	border-radius:10px;
+}
+footer{
+	background-color:#0E3A8A;
+	color:white;
+	text-align:center;
+	margin-top:10px;
+}
